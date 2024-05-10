@@ -20,7 +20,14 @@
 - Метрика accuracy на fiass модели - 0.51, нейронная сеть показала метрику - 0.71.
 - Процент правильных ответов на всех жанрах лучше у нейронной сети.
 - Хорошо определяемые жанры у моделей примерно одинаковы. Плохо определяется disco, хорошо - аниме, металл и классическая музыка.
-![plot](https://github.com/AnnaPakir/cover_music/blob/main/file/Confusion%20matrix%20fastai.png)
+  
+Результаты fiass-модели:
+![plot](https://github.com/AnnaPakir/cover_music/blob/main/file/Confusion%20matrix%20fiass.png)
+
+
+Результаты fastai модели:
+
+![plot](https://github.com/AnnaPakir/cover_music/blob/main/file/Confusion%20matrix%20fastai.png) 
 
 - Fiass-модель не смогла определить жанр трех рандомных картинок, нейронная сеть с этим справилась.
 
