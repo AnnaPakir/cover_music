@@ -22,6 +22,7 @@
 - Хорошо определяемые жанры у моделей примерно одинаковы. Плохо определяется disco, хорошо - аниме, металл и классическая музыка.
   
 Результаты fiass-модели:
+
 ![plot](https://github.com/AnnaPakir/cover_music/blob/main/file/Confusion%20matrix%20fiass-2.png)
 
 
